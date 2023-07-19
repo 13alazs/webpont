@@ -1,0 +1,22 @@
+{
+  "en": {
+    "login": "Login",
+    "email": "Email",
+    "password": "Password",
+    "dashboard": "Dashboard",
+    "signOut": "Sign Out",
+    "tableHeaderName": "Name",
+    "tableHeaderAge": "Age",
+    "tableHeaderCountry": "Country"
+  },
+  "hu": {
+    "login": "Bejelentkezés",
+    "email": "Email",
+    "password": "Jelszó",
+    "dashboard": "Irányítópult",
+    "signOut": "Kijelentkezés",
+    "tableHeaderName": "Név",
+    "tableHeaderAge": "Kor",
+    "tableHeaderCountry": "Ország"
+  }
+}
